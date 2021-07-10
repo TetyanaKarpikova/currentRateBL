@@ -1,0 +1,24 @@
+.curName {
+    text-align: left;
+    border: 1px solid darkblue;    
+    padding: 5px 8px;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.curAbbrev {
+    text-align: center;
+    border: 1px solid darkblue;
+   
+}
+
+.curScale {
+    text-align: center;
+    border: 1px solid darkblue;
+}
+
+.curRate {
+    text-align: right;
+    border: 1px solid darkblue; 
+    padding-right: 5px;
+}
